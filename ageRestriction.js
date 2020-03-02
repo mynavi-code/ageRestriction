@@ -1,6 +1,11 @@
 /**
-AgeRestriction
+AgeRestriction.js v1
 年齢制限をするためのライブラリ
+
+Copyright (c) 2020 YamamotoKoshiro
+
+Released under the MIT license.
+see https://opensource.org/licenses/MIT
 
 使い方
 1.このライブラリをダウンロードし、該当ページにてインポートしてください（例）<script src="ageRestriction.js"></script>
@@ -10,11 +15,6 @@ AgeRestriction
 第3引数：年select要素のid属性
 第4引数：月select要素のid属性
 第5引数：日select要素のid属性
-
-Copyright (c) 2020 YamamotoKoshiro
-
-This software is released under the MIT License.
-http://opensource.org/licenses/mit-license.php
 */
 
 class AgeRestriction {
