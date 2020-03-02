@@ -4,7 +4,7 @@ AgeRestriction.js v1
 
 Copyright (c) 2020 YamamotoKoshiro
 Released under the MIT license
-https://opensource.org/licenses/mit-license.php
+https://github.com/mynavi-code/ageRestriction/blob/master/LICENSE
 
 使い方
 1.このライブラリをダウンロードし、該当ページにてインポートしてください（例）<script src="ageRestriction.js"></script>
