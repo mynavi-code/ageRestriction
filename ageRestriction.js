@@ -3,9 +3,8 @@ AgeRestriction.js v1
 年齢制限をするためのライブラリ
 
 Copyright (c) 2020 YamamotoKoshiro
-
-Released under the MIT license.
-see https://opensource.org/licenses/MIT
+Released under the MIT license
+https://github.com/Microsoft/MixedRealityToolkit-Unity/blob/master/License.txt
 
 使い方
 1.このライブラリをダウンロードし、該当ページにてインポートしてください（例）<script src="ageRestriction.js"></script>
